@@ -30,11 +30,16 @@ jobs:
           SPZ_RECIPIENT_EMAIL: ${{ secrets.SPZ_RECIPIENT_EMAIL }}
         run: python run_check.py
 
+      - name: Publish to GitHub Pages
+        run: |
+          mkdir -p docs
+          cp report.html docs/index.html
+
       - name: Commit updated state
         run: |
           git config user.name "vodkl-watcher-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state/last_snapshot.json report.html
+          git add state/last_snapshot.json report.html docs/index.html
           test -f state/state.json && git add state/state.json
           git diff --cached --quiet || git commit -m "Update watcher state [skip ci]"
           git push
