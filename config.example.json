@@ -1,0 +1,14 @@
+{
+  "installation_id": "fc695f76-ee04-48da-9209-7664775d9f7c",
+  "speciality_filter": "офтальмолог дитячий",
+  "horizon_days": 120,
+  "recipient_email": "CHANGE_ME@example.com",
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "use_tls": true,
+    "username": "CHANGE_ME@gmail.com",
+    "password": "CHANGE_ME_16_CHAR_APP_PASSWORD",
+    "from_addr": "CHANGE_ME@gmail.com"
+  }
+}

@@ -1,0 +1,4 @@
+config.json
+state/run_log.txt
+__pycache__/
+*.pyc
