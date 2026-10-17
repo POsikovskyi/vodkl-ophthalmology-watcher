@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-17T00:08:36",
+  "scan_time": "2026-10-17T06:30:43",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -8,7 +8,7 @@
       "user_ref": "Antonets",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2026-12-14",
+      "last_published_date": "2026-12-17",
       "free_dates": [],
       "days": {
         "2026-10-19": {
@@ -80,6 +80,10 @@
           "gaps": []
         },
         "2026-12-14": {
+          "status": "FULL",
+          "gaps": []
+        },
+        "2026-12-17": {
           "status": "FULL",
           "gaps": []
         }
