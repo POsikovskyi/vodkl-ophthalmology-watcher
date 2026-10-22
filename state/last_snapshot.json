@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-22T03:03:07",
+  "scan_time": "2026-10-22T09:08:00",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -282,7 +282,7 @@
       "user_ref": "RaychibaK",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2026-12-21",
+      "last_published_date": "2026-12-22",
       "free_dates": [],
       "days": {
         "2026-10-27": {
@@ -374,6 +374,10 @@
           "gaps": []
         },
         "2026-12-21": {
+          "status": "FULL",
+          "gaps": []
+        },
+        "2026-12-22": {
           "status": "FULL",
           "gaps": []
         }
