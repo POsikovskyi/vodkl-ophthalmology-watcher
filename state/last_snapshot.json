@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-27T20:24:17",
+  "scan_time": "2026-10-28T00:57:14",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -191,10 +191,6 @@
       "last_published_date": "2026-12-23",
       "free_dates": [],
       "days": {
-        "2026-10-28": {
-          "status": "FULL",
-          "gaps": []
-        },
         "2026-10-30": {
           "status": "FULL",
           "gaps": []
@@ -281,10 +277,6 @@
       "last_published_date": "2026-12-22",
       "free_dates": [],
       "days": {
-        "2026-10-28": {
-          "status": "FULL",
-          "gaps": []
-        },
         "2026-10-29": {
           "status": "FULL",
           "gaps": []
