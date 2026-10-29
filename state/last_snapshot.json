@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-10-29T01:30:22",
+  "scan_time": "2026-10-29T07:58:11",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -188,7 +188,7 @@
       "user_ref": "Makovska",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2026-12-23",
+      "last_published_date": "2026-12-29",
       "free_dates": [],
       "days": {
         "2026-10-30": {
@@ -264,6 +264,10 @@
           "gaps": []
         },
         "2026-12-23": {
+          "status": "FULL",
+          "gaps": []
+        },
+        "2026-12-29": {
           "status": "FULL",
           "gaps": []
         }
