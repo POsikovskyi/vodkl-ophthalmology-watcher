@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-05T04:52:19",
+  "scan_time": "2026-11-05T13:55:21",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -94,7 +94,7 @@
       "user_ref": "Diachenko",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2027-01-04",
+      "last_published_date": "2027-01-05",
       "free_dates": [],
       "days": {
         "2026-11-09": {
@@ -180,6 +180,10 @@
         "2027-01-04": {
           "status": "FULL",
           "gaps": []
+        },
+        "2027-01-05": {
+          "status": "FULL",
+          "gaps": []
         }
       }
     },
@@ -188,7 +192,7 @@
       "user_ref": "Makovska",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2026-12-30",
+      "last_published_date": "2027-01-05",
       "free_dates": [],
       "days": {
         "2026-11-06": {
@@ -260,6 +264,10 @@
           "gaps": []
         },
         "2026-12-30": {
+          "status": "FULL",
+          "gaps": []
+        },
+        "2027-01-05": {
           "status": "FULL",
           "gaps": []
         }
@@ -350,6 +358,47 @@
           "gaps": []
         },
         "2026-12-30": {
+          "status": "FULL",
+          "gaps": []
+        }
+      }
+    },
+    {
+      "name": "Романішина Дарʼя Миколаївна",
+      "user_ref": "Romanishyna",
+      "speciality": "Лікар офтальмолог дитячий",
+      "error": null,
+      "last_published_date": "2026-11-13",
+      "free_dates": [
+        "2026-11-06",
+        "2026-11-09"
+      ],
+      "days": {
+        "2026-11-06": {
+          "status": "OPEN_GAP",
+          "gaps": [
+            [
+              "11:00",
+              "12:15",
+              75
+            ]
+          ]
+        },
+        "2026-11-09": {
+          "status": "OPEN_GAP",
+          "gaps": [
+            [
+              "09:20",
+              "12:35",
+              195
+            ]
+          ]
+        },
+        "2026-11-10": {
+          "status": "FULL",
+          "gaps": []
+        },
+        "2026-11-13": {
           "status": "FULL",
           "gaps": []
         }
