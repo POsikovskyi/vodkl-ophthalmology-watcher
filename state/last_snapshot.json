@@ -1,5 +1,5 @@
 {
-  "scan_time": "2026-11-19T01:40:00",
+  "scan_time": "2026-11-19T09:48:13",
   "speciality_filter": "офтальмолог дитячий",
   "horizon_days": 120,
   "doctors": [
@@ -102,8 +102,10 @@
       "user_ref": "Diachenko",
       "speciality": "Лікар офтальмолог дитячий",
       "error": null,
-      "last_published_date": "2027-01-13",
-      "free_dates": [],
+      "last_published_date": "2027-01-19",
+      "free_dates": [
+        "2027-01-19"
+      ],
       "days": {
         "2026-11-20": {
           "status": "FULL",
@@ -188,6 +190,16 @@
         "2027-01-13": {
           "status": "FULL",
           "gaps": []
+        },
+        "2027-01-19": {
+          "status": "OPEN_GAP",
+          "gaps": [
+            [
+              "09:40",
+              "10:00",
+              20
+            ]
+          ]
         }
       }
     },
